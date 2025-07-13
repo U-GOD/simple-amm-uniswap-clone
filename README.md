@@ -62,7 +62,7 @@ The AMM contract implementing:
 
 6. **Remove liquidity:**
    ```solidity
-   simpleAMM.removeLiquidity(lpBalance);
+   simpleAMM.removeLiquidity(BalanceOf);
    ```
 
 ---
